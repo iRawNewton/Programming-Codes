@@ -18,3 +18,5 @@ ii. C Compiler : The source code written in source file is the human readable so
                  
                  
 For Installation process refer link : https://bit.ly/2CNdJrl
+
+Extension for any C program is c.
