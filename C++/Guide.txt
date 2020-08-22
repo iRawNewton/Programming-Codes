@@ -1,0 +1,22 @@
+To set up environment for C++, you need following two software tools on your computer: 
+i. Text Editor 
+ii. C++ Compiler.
+
+i. Text Editor : Text Editors is where we will write our programs. Few examples of text editors are as follows:
+    a. Notepad
+    b. Notepad++
+    c. Sublime Text Editor
+    d. Visual Studio Code
+    e. Atom
+ii. C Compiler : The source code written in source file is the human readable source for your program. It needs to be "compiled", 
+                 into machine language so that your CPU can actually execute the program as per the instructions given.
+                 
+                 The compiler compiles the source codes into final executable programs. The most frequently used and free available
+                 compiler is the GNU C/C++ compiler.
+                 
+                 GNU gcc compiler works for both C and C++ programming languages.
+                 
+                 
+For Installation process refer link : https://bit.ly/31gDEBk
+
+Extension for any C++ program is cpp.
